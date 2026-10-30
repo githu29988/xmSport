@@ -1,6 +1,6 @@
 <div align="center">
 
-# 小米运动健康刷步数
+# 小米运动健康刷步数 
 
 [![小米运动](https://img.shields.io/badge/小米运动-passing-success.svg?style=flat-square&logo=xiaomi&logoWidth=20&logoColor=white)](https://github.com/chiupam/xmSport/actions)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg?style=flat-square&logo=javascript)](https://www.javascript.com/)
@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/chiupam/xmSport?style=flat-square&logo=github)](https://github.com/chiupam/xmSport/network/members)
 [![License](https://img.shields.io/github/license/chiupam/xmSport?style=flat-square)](LICENSE)
 
-</div>
+</div> 
 
 这是一个使用GitHub Actions自动化执行的小米运动健康刷步数项目，可以定时为小米运动账号模拟随机步数数据。
 
